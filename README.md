@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karam200888
 - 👀 I’m interested in every sort of full-stack software development, casually and professionally
-- 🌱 I’m currently learning C# Blazor Full Stack Development, and everything else in C# really.
+- 🌱 I’m currently learning C# Blazor Full Stack Development, and everything else in C# (or sometimes C++ or rust) really.
 - 💞️ I’m looking to collaborate on any Project that seems interesting and is on my skill level
 - 📫 How to reach me Discord username woladi
 - ⚡ Fun fact: idk xD i just make stuff for fun and for use
